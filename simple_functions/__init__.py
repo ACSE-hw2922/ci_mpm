@@ -1,6 +1,6 @@
 from pkg_resources import DistributionNotFound, get_distribution
 
-from .constants import pi
+# from .constants import pi
 from .functions1 import *  # noqa
 
 try:
